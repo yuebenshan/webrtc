@@ -33,6 +33,7 @@
 .cproject
 .gdb_history
 .gdbinit
+.idea
 .landmines
 .metadata
 .project
